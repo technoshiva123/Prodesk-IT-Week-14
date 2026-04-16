@@ -10,7 +10,7 @@ TaskMatrix is a full-stack project management tool designed to help software tea
 ![Dashboard Overview](./assest/Preview3.png)
 
 ## 📺 Project Demo
-[![Watch the Video Demo](https://img.shields.io/badge/Watch-Video_Demo-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+[![Watch the Video Demo](https://img.shields.io/badge/Watch-Video_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/BLr7d5Kysvg?si=Ub9nXTCDXgc4FKs4)
 
 ## 🌌 Core Features (Week 14 Milestones)
 - **End-to-End Authentication:** A seamless bridge between the React frontend, Node/Express backend, and MongoDB Atlas.
